@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "leaflet": "^1.5.1",
+    "leaflet-css": "^0.1.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
